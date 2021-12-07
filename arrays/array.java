@@ -10,5 +10,6 @@ public class array {
         for (int i = 0; i < 52; i++)
             System.out.print(deck[i] + " ");
         System.out.println(); 
+        // connenting the next part
     }
 }
